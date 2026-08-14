@@ -6385,7 +6385,7 @@ var isFreshChatPresence = (value, charId, nowMs) => Boolean(
 );
 
 // utils/proxyWorker.ts
-var DEFAULT_PROXY_WORKER = "https://sullymeow.ccwu.cc";
+var DEFAULT_PROXY_WORKER = "https://sullyos-0119.xr15357768560.workers.dev/";
 var LS_KEY = "sully_proxy_worker_url_v1";
 var STALE_HOSTS = [/sully-n\.qegj567\.workers\.dev/i, /sullymeow\.ccwu213\.cc/i];
 var normalize = (url) => url.trim().replace(/\/+$/, "");
